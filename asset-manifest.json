@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/proyecto-sorpresa/static/css/main.0d506dc7.css",
+    "main.js": "/proyecto-sorpresa/static/js/main.2e6de84a.js",
+    "static/js/453.ba7ab870.chunk.js": "/proyecto-sorpresa/static/js/453.ba7ab870.chunk.js",
+    "index.html": "/proyecto-sorpresa/index.html",
+    "main.0d506dc7.css.map": "/proyecto-sorpresa/static/css/main.0d506dc7.css.map",
+    "main.2e6de84a.js.map": "/proyecto-sorpresa/static/js/main.2e6de84a.js.map",
+    "453.ba7ab870.chunk.js.map": "/proyecto-sorpresa/static/js/453.ba7ab870.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d506dc7.css",
+    "static/js/main.2e6de84a.js"
+  ]
+}
